@@ -1,0 +1,21 @@
+{
+	"YouTuber":
+	[
+		{"ytName":"DarkFluff", "ytInfo":"Reads Reddit stories","ytImage":"https://raw.githubusercontent.com/cbrogdo/IT315_Project/main/darkFluff.jpg","ytSite":"https://www.youtube.com/c/DarkFluff"},
+		{"ytName":"Mark Narrations", "ytInfo":"Reads Reddit stories, mainly r/AITA","ytImage":"https://raw.githubusercontent.com/cbrogdo/IT315_Project/main/markNarrations.jpg","ytSite":"https://www.youtube.com/c/MarkNarrations"},
+		{"ytName":"Otaku Sensei", "ytInfo":"Suggests anime that is good to watch under a specific category or plot line.","ytImage":"https://raw.githubusercontent.com/cbrogdo/IT315_Project/main/otakuSensei.jpg","ytSite":"https://www.youtube.com/c/OtakuSensei"},
+		{"ytName":"Mr. Spock", "ytInfo":"Plays Empire and Puzzles, and gives commentary about updates and changes","ytImage":"https://raw.githubusercontent.com/cbrogdo/IT315_Project/main/spock.png","ytSite":"https://www.youtube.com/c/MrSpock"},
+		{"ytName":"One Ok Rock", "ytInfo":"Japanese rock music","ytImage":"https://raw.githubusercontent.com/cbrogdo/IT315_Project/main/oor.jpg","ytSite":"https://www.youtube.com/c/ONEOKROCK"},
+		{"ytName":"rSlash", "ytInfo":"Reads Reddit stories, like r/maliciouscompliance","ytImage":"https://raw.githubusercontent.com/cbrogdo/IT315_Project/main/rSlash.jpg","ytSite":"https://www.youtube.com/c/rSlash"},
+		{"ytName":"SSundee", "ytInfo":"Plays games, mainly modded among us","ytImage":"https://raw.githubusercontent.com/cbrogdo/IT315_Project/main/ssundee.jpg","ytSite":"https://www.youtube.com/user/SSundee"},
+		{"ytName":"Scam Nation", "ytInfo":"Teaches slight of hand and magic tricks","ytImage":"https://raw.githubusercontent.com/cbrogdo/IT315_Project/main/brian.jpg","ytSite":"https://www.youtube.com/user/scamschool"},
+		{"ytName":"Steven Crowder", "ytInfo":"Discusses political subjects and current events","ytImage":"https://raw.githubusercontent.com/cbrogdo/IT315_Project/main/crowder.jpg","ytSite":"https://www.youtube.com/c/StevenCrowder"},
+		{"ytName":"Storytime", "ytInfo":"Reads Reddit stories, like r/prorevenge","ytImage":"https://raw.githubusercontent.com/cbrogdo/IT315_Project/main/storytime.jpg","ytSite":"https://www.youtube.com/c/TobyO"},
+		{"ytName":"xKito Music", "ytInfo":"Nightcore music","ytImage":"https://raw.githubusercontent.com/cbrogdo/IT315_Project/main/xKito.jpg","ytSite":"https://www.youtube.com/c/xKitoMusic"},
+		{"ytName":"XO", "ytInfo":"Reads r/AITA stories from Reddit","ytImage":"https://raw.githubusercontent.com/cbrogdo/IT315_Project/main/xo.jpg","ytSite":"https://www.youtube.com/channel/UCNcbRFPEN1-bo5w7BHf8vNg"},
+		{"ytName":"ObesetoBeast", "ytInfo":"Talks about weight loss experiences and weight loss video/posts online","ytImage":"https://raw.githubusercontent.com/cbrogdo/IT315_Project/main/obesetoBeast.jpg","ytSite":"https://www.youtube.com/user/ObesetoBeast"},
+		{"ytName":"Luke Narwhal", "ytInfo":"Reads Reddit stories from r/loseit","ytImage":"https://raw.githubusercontent.com/cbrogdo/IT315_Project/main/lukeNarwhal.jpg","ytSite":"https://www.youtube.com/c/LukeNarwhal"},
+		{"ytName":"Emkay", "ytInfo":"Reads Reddit stories like r/technicallythetruth or r/meirl","ytImage":"https://raw.githubusercontent.com/cbrogdo/IT315_Project/main/emkay.jpg","ytSite":"https://www.youtube.com/c/EmKayReads"},
+	],
+  "Status":"OK"
+}
